@@ -1,0 +1,29 @@
+{
+  "localId": "MiClockBig",
+  "onlineId": null,
+  "productId": null,
+  "downloadPath": "/system/media/theme/gadget/clock/MiClockBig.mtz",
+  "metaPath": "/system/media/theme/.data/meta/clock_2x4/MiClockBig.mrm",
+  "contentPath": "/system/media/theme/.data/content/clock_2x4/MiClockBig.mrc",
+  "hash": "8f77049a3f598d4a165c201f2eb75d5b245cbcf1",
+  "size": 115746,
+  "updatedTime": 0,
+  "platform": 2,
+  "title": "MiClock Big",
+  "description": null,
+  "author": "InSsSaNe",
+  "designer": "MIUI",
+  "version": "1.0",
+  "downloadCount": null,
+  "buildInThumbnails": [
+    "/system/media/theme/.data/preview/clock_2x4/MiClockBig/preview_clock_0.png"
+  ],
+  "buildInPreviews": [
+    "/system/media/theme/.data/preview/clock_2x4/MiClockBig/preview_clock_0.png"
+  ],
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [],
+  "subResources": [],
+  "extraMeta": {}
+}
