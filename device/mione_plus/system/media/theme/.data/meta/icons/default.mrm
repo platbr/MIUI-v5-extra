@@ -19,10 +19,11 @@
   "version": "1.0",
   "downloadCount": 0,
   "buildInThumbnails": [
-    "/system/media/theme/.data/preview/default/preview_icons_small_0.png"
+    "/system/media/theme/.data/preview/default/preview_icons_small_0.jpg"
   ],
   "buildInPreviews": [
     "/system/media/theme/.data/preview/default/preview_icons_0.jpg",
+	"/system/media/theme/.data/preview/default/preview_icons_1.jpg",
   ],
   "thumbnails": [],
   "previews": [],
