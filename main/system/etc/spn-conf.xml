@@ -2,13 +2,13 @@
 <spnOverrides>
 	<spnOverride
 		numeric="25501"
-		spn="МТС"/>
+		spn="MTC"/>
 	<spnOverride
 		numeric="25502"
-		spn="Билайн"/>
+		spn="Beeline"/>
 	<spnOverride
 		numeric="25503"
-		spn="КиевСтар"/>
+		spn="KievStar"/>
 	<spnOverride
 		numeric="25504"
 		spn="IT"/>
@@ -32,10 +32,10 @@
 		spn="NewTone"/>
 	<spnOverride
 		numeric="25001"
-		spn="МТС"/>
+		spn="MTC"/>
 	<spnOverride
 		numeric="25050"
-		spn="МТС"/>
+		spn="MTC"/>
 	<spnOverride
 		numeric="25005"
 		spn="ETK"/>
@@ -50,10 +50,10 @@
 		spn="Tele2"/>
 	<spnOverride
 		numeric="25028"
-		spn="Билайн"/>
+		spn="Beeline"/>
 	<spnOverride
 		numeric="25099"
-		spn="Билайн"/>
+		spn="Beeline"/>
 	<spnOverride
 		numeric="25003"
 		spn="NCC"/>
@@ -62,13 +62,13 @@
 		spn="SMARTS"/>
 	<spnOverride
 		numeric="25010"
-		spn="ДТК"/>
+		spn="DTK"/>
 	<spnOverride
 		numeric="25011"
 		spn="Yota"/>
 	<spnOverride
 		numeric="25012"
-		spn="БВК"/>
+		spn="BVK"/>
 	<spnOverride
 		numeric="25015"
 		spn="SMARTS"/>
