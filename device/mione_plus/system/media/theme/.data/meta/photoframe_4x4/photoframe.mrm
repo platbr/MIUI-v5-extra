@@ -2,24 +2,24 @@
   "localId": "photoframe",
   "onlineId": null,
   "productId": null,
-  "downloadPath": "/system/media/theme/gadget/photoframe/photoframe_4x4.mtz",
-  "metaPath": "/system/media/theme/.data/meta/photoframe_4x4/photoframe.mrm",
-  "contentPath": "/system/media/theme/.data/content/photoframe_4x4/photoframe.mrc",
-  "hash": "E72A6FCFF01152DFBCA665D7FE0D5997A3938A93",
-  "size": 131149,
+  "downloadPath": "/system/media/theme/gadget/miframe/photoframe_4x4.mtz",
+  "metaPath": "/system/media/theme/.data/meta/miframe_4x4/photoframe.mrm",
+  "contentPath": "/system/media/theme/.data/content/miframe_4x4/photoframe.mrc",
+  "hash": "D745FD9C981AD316951EB475F5150D455A5B9948",
+  "size": 2753,
   "updatedTime": 0,
-  "platform": 1,
-  "title": "Стандарт",
+  "platform": 2,
+  "title": "По умолчанию",
   "description": null,
   "author": null,
   "designer": null,
   "version": "1.2",
   "downloadCount": null,
   "buildInThumbnails": [
-    "/system/media/theme/.data/preview/photoframe_4x4/photoframe/preview_photoframe_0.png"
+    "/system/media/theme/.data/preview/miframe_4x4/photoframe/preview_photoframe_0.png"
   ],
   "buildInPreviews": [
-    "/system/media/theme/.data/preview/photoframe_4x4/photoframe/preview_photoframe_0.png"
+    "/system/media/theme/.data/preview/miframe_4x4/photoframe/preview_photoframe_0.png"
   ],
   "thumbnails": [],
   "previews": [],
